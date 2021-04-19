@@ -1,0 +1,8 @@
+site_name: My Docs
+nav:
+    - Home: index.md
+    - Second: second.md
+    - Third: third.md
+    - Four: four.md
+    - Five: five.md
+theme: readthedocs
